@@ -1,0 +1,5 @@
+bin/
+lib/
+*.cfg
+inlcude/
+.DS_Store
